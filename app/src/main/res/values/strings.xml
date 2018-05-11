@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio Button Demo App</string>
+    <string name="what_is_your_branch">what is your branch?</string>
+    <string name="mechanical">mechanical</string>
+    <string name="electrical">electrical</string>
+    <string name="computer_science">computer science</string>
+    <string name="civil">civil</string>
+</resources>
